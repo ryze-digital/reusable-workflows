@@ -1,4 +1,4 @@
-# RYZE Digital reusable GitHub workflows
+# RYZE Digital Reusable GitHub Workflows
 
 ## Usage
 
